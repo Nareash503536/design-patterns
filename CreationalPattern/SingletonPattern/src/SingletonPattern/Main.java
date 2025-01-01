@@ -1,3 +1,5 @@
+package SingletonPattern;
+
 class Singleton {
     private static Singleton instance;
     private Singleton()
